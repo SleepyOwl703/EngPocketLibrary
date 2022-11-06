@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Eng_pocket_library</string>
+    <string name="menu_books">Книги</string>
+    <string name="menu_translator">Переводчик</string>
+    <string name="menu_notebook">Блокнот</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="books_finder_hint">Найти</string>
+    <string name="books_read">Читать</string>
+    <string name="tr_update">Обновить</string>
+    <string name="tr_lang">Язык</string>
+    <string name="tr_ru">Ru</string>
+    <string name="tr_eng">Eng</string>
+    <string name="translation">Перевести</string>
+    <string name="adding">Добавить</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_book">BookActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name ="bo_name">the_black_obelisk.txt</string>
+    <string name ="uts_name">20000_lie_under_the_sea.txt</string>
+</resources>

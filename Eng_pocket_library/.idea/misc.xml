@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/drawable/book_app_icon_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/drawable/button_back_form.xml" value="0.21875" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/drawable/ic_baseline_book_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/drawable/rounded_blue_shape.xml" value="0.221875" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/drawable/search_shape.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/drawable/wallpaper.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/font/book_font.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/layout/activity_book.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/layout/activity_book_activity.xml" value="0.2" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/layout/alert_dialog_layout.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/layout/book_item_layout.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/layout/fragment_book.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/layout/fragment_notebook.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/layout/fragment_translator.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/layout/main_content.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/layout/main_menu_header_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/layout/special_word_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/layout/wallpaper.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/menu/navigation_drawer_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/mipmap-anydpi-v26/book_app_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/mipmap-anydpi-v26/book_app_icon_round.xml" value="0.21875" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/Eng_pocket_library/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
